@@ -1,2 +1,3 @@
 #!/bin/bash
-telnet tower.blinkenlights.nl
+
+telnet towel.blinkenlights.nl
