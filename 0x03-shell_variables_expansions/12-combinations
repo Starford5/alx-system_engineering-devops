@@ -1,0 +1,2 @@
+#!/bin/bash
+wcho {a..z}{a..} | tr """\n" | grep -r "oo"
