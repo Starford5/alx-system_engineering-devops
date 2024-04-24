@@ -18,4 +18,3 @@ if __name__ == "__main__":
                 "completed": t.get("completed"),
                 "username": username
             } for t in todos]}, jsonfile)
-
